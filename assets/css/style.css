@@ -5,7 +5,7 @@
     margin: 0;
 }
 p, .forms {
-    font-size: 2rem;
+    font-size: 32px;
 }
 html, body {
     margin: 0;
@@ -73,5 +73,5 @@ body {
 .footer-contact {
     display: inline;
     margin: 0px 2% 0px;
-    font-size: 2rem;
+    font-size: 32px;
 }
