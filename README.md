@@ -1,4 +1,4 @@
-#Desafio de Projeto HTML da DIO
+# Desafio de Projeto HTML da DIO
 Repositório criado para realização do Projeto de HTML do curso "Primeiros Passos em Tecnologia" em parceria com o 1º Empregotech Curitiba.
 
 ## 🚀 Tecnologias
