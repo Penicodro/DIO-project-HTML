@@ -4,9 +4,6 @@
     padding: 0;
     margin: 0;
 }
-p, .forms {
-    font-size: 32px;
-}
 html, body {
     margin: 0;
 }
@@ -50,7 +47,7 @@ body {
     text-overflow: ellipsis;
 }
 .menu ul li a {
-    font-size: 2rem;
+    font-size: 120%;
 }
 .header {
     height: 30%;
@@ -73,5 +70,5 @@ body {
 .footer-contact {
     display: inline;
     margin: 0px 2% 0px;
-    font-size: 32px;
+    font-size: 120%;
 }
